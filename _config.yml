@@ -21,17 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+url: "https://dengjie837-jpg.github.io"
+baseurl: "/jiedeng.github.io"
+
 author:
   # Biographic information
-  avatar           : "/jiedeng.github.io/images/profile.jpg"
+  avatar: "/images/profile.jpg"
   name             : "Jie Deng"
   pronouns         : # example: "she/her"  
   bio              : "This is me"
   location         : "Barcelona, Spain"
   employer         : "Universitat Ramon Llull"
   uri              : # URL
-  url: "https://dengjie837-jpg.github.io"
-  baseurl: "/jiedeng.github.io"
   email            : "jie.deng@salle.url.edu" 
 
   # Academic websites
