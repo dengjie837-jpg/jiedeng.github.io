@@ -30,6 +30,8 @@ author:
   location         : "Barcelona, Spain"
   employer         : "Universitat Ramon Llull"
   uri              : # URL
+  url: "https://dengjie837-jpg.github.io"
+  baseurl: "/jiedeng.github.io"
   email            : "jie.deng@salle.url.edu" 
 
   # Academic websites
